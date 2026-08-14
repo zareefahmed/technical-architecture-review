@@ -73,6 +73,8 @@ Working tools you can copy and use right away.
 
 ## From the author: Diary of a Solutions Architect
 
+<img src="assets/diary-of-a-solutions-architect-cover.jpg" alt="Cover of Diary of a Solutions Architect by Zareef Ahmed" width="220" align="right" />
+
 The ideas in this guide come from lived experience, and that experience is the subject of my book, **[Diary of a Solutions Architect](https://www.zareef.com/books/diary-of-a-solutions-architect)**. A raw, first-person look into the world of cloud solutions.
 
 Where this guide gives you the framework, the book shows you the pressure the framework exists to resist. It is an unfiltered diary of an experienced cloud solutions architect working inside a sales-focused organization, caught between what the customer needs, what the company wants to sell, and what personal ethics will allow. It follows the running conflict with an account manager who pushes the high-margin services, and it looks honestly at the psychology of staying consistent, the pull of ambition, and what actually makes the work satisfying.
@@ -83,4 +85,7 @@ In other words, the book lives inside the exact tension this guide is built on:
 
 If the chapters here convinced you of the argument, the diary shows what that argument feels like from the inside, one workday at a time. And if you read the book first, this guide is the toolkit for acting on it: the [review practices](docs/03-architecture-review/README.md), the [independence principles](docs/04-independent-third-party-review/README.md), and the [checklists](docs/05-templates-and-checklists/README.md) that turn conviction into habit.
 
-**Read the book** (Kindle Edition, 108 pages, published July 2025): [www.zareef.com/books/diary-of-a-solutions-architect](https://www.zareef.com/books/diary-of-a-solutions-architect)
+**Read the book** (Kindle Edition, 108 pages, published July 2025):
+
+- [Book page](https://www.zareef.com/books/diary-of-a-solutions-architect) at zareef.com
+- [Buy on Amazon](https://www.amazon.com/Diary-Solutions-Architect-Zareef-Ahmed-ebook/dp/B0DWFPHMS1) (Kindle)
