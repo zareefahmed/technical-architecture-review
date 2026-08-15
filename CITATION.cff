@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this guide, please cite it as below."
+title: "Technical Architecture Review"
+authors:
+  - family-names: "Ahmed"
+    given-names: "Zareef"
+date-released: 2026-08-14
+license: CC-BY-4.0
+repository-code: "https://github.com/zareefahmed/technical-architecture-review"
+url: "https://github.com/zareefahmed/technical-architecture-review"
+abstract: "A practical guide to technical architecture and architecture review: what architecture is, the forms it takes, why it needs review, and why the most valuable reviews come from independent third parties with no stake in any vendor involved in the solution."
+keywords:
+  - "technical architecture"
+  - "architecture review"
+  - "solution architecture"
+  - "vendor neutrality"
+  - "independent review"

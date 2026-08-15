@@ -2,6 +2,19 @@
 
 This is a practical guide to technical architecture. It explains what architecture really is, the different forms it takes, why it needs to be reviewed, and why the most valuable reviews come from independent third parties who have no stake in any vendor involved in the solution.
 
+## What is a Technical Architecture Review?
+
+A technical architecture review is a structured assessment of a system's architecture, design decisions, trade-offs, risks, scalability, security, reliability, data flow, infrastructure, integration points, vendor dependencies, and operational readiness.
+
+The goal is to find expensive architectural mistakes before they become expensive production problems.
+
+## Start Here
+
+- [Architecture Review Checklist](docs/05-templates-and-checklists/architecture-review-checklist.md)
+- [Review Report Template](docs/05-templates-and-checklists/review-report-template.md)
+- [Why Architecture Review Matters](docs/03-architecture-review/why-architecture-review-matters.md)
+- [Vendor-Bias Red Flags](docs/05-templates-and-checklists/vendor-bias-red-flags.md)
+
 One idea sits at the center of everything here:
 
 > **"Solutions Architecture must be solutions architecture, not a sales agent of a specific vendor."**
@@ -89,3 +102,14 @@ If the chapters here convinced you of the argument, the diary shows what that ar
 
 - [Book page](https://www.zareef.com/books/diary-of-a-solutions-architect) at zareef.com
 - [Buy on Amazon](https://www.amazon.com/Diary-Solutions-Architect-Zareef-Ahmed-ebook/dp/B0DWFPHMS1) (Kindle)
+
+## Cite this guide
+
+> Zareef Ahmed, *Technical Architecture Review*, 2026.
+> https://github.com/zareefahmed/technical-architecture-review
+
+A machine-readable citation is available in [CITATION.cff](CITATION.cff).
+
+## License
+
+This guide is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). You are free to share and adapt it, with attribution.
